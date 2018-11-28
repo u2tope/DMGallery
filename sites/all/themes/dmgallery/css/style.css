@@ -7634,3 +7634,11 @@ a .glyphicon.icon-after {
   margin-left: 0.25em;
   margin-right: -0.25em;
 }
+/*
+ * Custom
+ */
+.profile-about {
+  margin-right: 5px;
+  padding-right: 5px;
+  border-right: 1px solid #777;
+}
