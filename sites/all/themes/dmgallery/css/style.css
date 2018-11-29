@@ -7642,3 +7642,6 @@ a .glyphicon.icon-after {
   padding-right: 7px;
   border-right: 2px solid #777;
 }
+.crm-container .crm-section .label {
+  color: #333333;
+}
